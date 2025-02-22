@@ -1,5 +1,4 @@
 # Color Picker iOS App
-Programmed By: Brandy Nguyen
 
 # Description:
 This app is a simple iOS app that utilizes Swift to allow users to create a color palette using a mixture of Red, Green, and Blue. There are sliders for the user to slide with their finger to adjust the amount of color and a text entry box to enter a specific value. Users can turn on and off certain colors and their previous changes will be saved. The app contains persisentence meaning it can be closed and all the data will be restored when it is reopened. 
